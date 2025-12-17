@@ -1,17 +1,8 @@
 
 # 🎯 Recommendation System
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/your-username/recommendation-system?style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/your-username/recommendation-system?style=for-the-badge" />
-  <img src="https://img.shields.io/github/issues/your-username/recommendation-system?style=for-the-badge" />
-  <img src="https://img.shields.io/github/license/your-username/recommendation-system?style=for-the-badge" />
-  <img src="https://img.shields.io/github/last-commit/your-username/recommendation-system?style=for-the-badge" />
-</p>
 
-<p align="center">
-  🚀 A powerful and scalable Recommendation System that delivers personalized suggestions using data-driven techniques.
-</p>
+## 🚀 A powerful and scalable Recommendation System that delivers personalized suggestions using data-driven techniques.
 
 ---
 
